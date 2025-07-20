@@ -7,6 +7,7 @@ This is the implementation of our EAAI 2025 paper: Feature transformation and st
 **Source Domain**: NWPU45
 
 **Target Domains**: AID, PatternNet, RSI-CB128, GID, Place25
+
 Please download the datasets from the official websites.
 
 ## Data Preparation
